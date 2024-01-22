@@ -2,5 +2,6 @@
 
 I use this repository to publish supervised learning applications. So far, the folliwng applications are included:
 
-  1. Prediction of telecomunication churn using k Neares Neighbors (kNN)
-  2. Prediction of diabetes using Logistic Regression
+  1. Predicting telecomunication churn using k Neares Neighbors (kNN)
+  2. Predicting diabetes using Logistic Regression
+  3. Predicting sales using Multiple Linear Regression
